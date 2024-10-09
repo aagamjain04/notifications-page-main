@@ -49,4 +49,4 @@ Users should be able to:
     
 8.  **Correct Font Family Applied:**
     
-    -   Ensures that the correct font family, "Plus Jakarta Sans," is applied to the entire body of the notifications page.# notifications-page-main
+    -   Ensures that the correct font family, "Plus Jakarta Sans," is applied to the entire body of the notifications page.

@@ -1,7 +1,7 @@
 #!/bin/bash
 ######################################## EDITABLE ###############################################
 # ME details
-ME_ID="FE_BUILDOUT_XNOTIFICTION_PAGE"
+ME_ID="FE_BUILDOUT_XNOTIFICATION_PAGE"
 
 # gitlab details
 GITLAB_UPLOAD_DESTINATION="GITLAB_CRIO_DO"
@@ -10,7 +10,7 @@ GITLAB_UPLOAD_DESTINATION="GITLAB_CRIO_DO"
 # path to root folders - must exist
 #INPUT_PROJECT_ROOT_PATH="/home/arun/workspace/crio/"
 STUB_GENERATION="/home/aagamjain04/Crio/solution_and_stub_creator1"
-INPUT_PROJECT_ROOT_PATH="/home/aagamjain04/Crio/miniBuildout2/notifications-page-main"
+INPUT_PROJECT_ROOT_PATH="/home/aagamjain04/Crio/notifications-page-main1"
 RESULTS_ROOT_FOLDER="/home/aagamjain04/Crio/result"
 #INPUT_PROJECT_ROOT_PATH="/home/arun/workspace/crio/ME_INTERVIEW_PREP_JAVA/me_interview_prep_java"
 #RESULTS_ROOT_FOLDER="/home/arun/workspace/crio/ME_INTERVIEW_PREP_JAVA/solution_and_stubs"
@@ -52,7 +52,7 @@ commands=(
     "SOLUTION_GENERATOR"
     "INTERMEDIATE_STUBS_GENERATOR" 
     "FINAL_STUBS_GENERATOR"
-    #"GITLAB_UPLOAD"
+    "GITLAB_UPLOAD"
 )
 
 ######################################## COMMANDS ###############################################
